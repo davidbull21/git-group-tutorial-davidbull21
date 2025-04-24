@@ -1,3 +1,6 @@
 This is a representation of an unfinished function a group member is working
 on
 This is a new change from Jack Losing
+on.
+This is a new change from David Bull
+
